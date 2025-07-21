@@ -1,5 +1,5 @@
 In this playlist, I'll guide you through a comprehensive React course. 
-By the end of the series, you'll have explored all the key concepts in React, complete with examples, hands-on practice, and important questions frequently asked in interviews.
+By the end of the series, you'll have explored all the key concepts in React, complete with examples, hands-on practice, and a few tricky questions that might sneak in your interviews.
 Before we begin, please ensure you have the following prerequisites:
 IDE:
     1.	Visual Studio Code or any IDE of your choice
